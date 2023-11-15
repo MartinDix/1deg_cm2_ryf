@@ -12,17 +12,17 @@
       "cname": "lwfld_ai"
     },
     {
-      "filename": "INPUT/RYF.prra.1990_1991.nc",
+      "filename": "INPUT/cj877_prra.nc",
       "fieldname": "prra",
       "cname": "rain_ai"
     },
     {
-      "filename": "INPUT/RYF.prsn.1990_1991.nc",
+      "filename": "INPUT/cj877_prsn.nc",
       "fieldname": "prsn",
       "cname": "snow_ai"
     },
     {
-      "filename": "INPUT/RYF.psl.1990_1991.nc",
+      "filename": "INPUT/cj877_psl.nc",
       "fieldname": "psl",
       "cname": "press_ai"
     },

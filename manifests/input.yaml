@@ -41,6 +41,11 @@ work/INPUT/remap_n96e_t_MOM1_conserve_dstarea.nc:
   hashes:
     binhash: c5069b21d57525bad035afa75b31dff1
     md5: 0ea67f296421583864e1d5e879363744
+work/INPUT/remap_n96e_t_MOM1_patch_dstarea.nc:
+  fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_t_MOM1_patch_dstarea.nc
+  hashes:
+    binhash: c2db64523b88a0017fda3a394ca4304f
+    md5: facf1e44c75edbca301a58baf04f2583
 work/INPUT/remap_n96e_u_MOM1_patch_dstarea.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_u_MOM1_patch_dstarea.nc
   hashes:
@@ -126,6 +131,21 @@ work/atmosphere/INPUT/RYF.vas.1990_1991.nc:
   hashes:
     binhash: 17224eecb745b6ce72604b41201c1fe7
     md5: 88dc8c70338bbc8f5efc48ed0009a99f
+work/atmosphere/INPUT/cj877_prra.nc:
+  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_prra.nc
+  hashes:
+    binhash: cb0293791b757dbc9d274e5eb9b5f86c
+    md5: 61251c29bf70a5a7641451c934eecc19
+work/atmosphere/INPUT/cj877_prsn.nc:
+  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_prsn.nc
+  hashes:
+    binhash: 806cf3be327e811419192d24a2e87e2d
+    md5: 433c62098098c9c6b6439fd1fd9ec66b
+work/atmosphere/INPUT/cj877_psl.nc:
+  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_psl.nc
+  hashes:
+    binhash: fca4974632cbeb7b77a2573422d30884
+    md5: abf1a721fcdcb2781d7f4e84c86c8062
 work/atmosphere/INPUT/cj877_rlds.nc:
   fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_rlds.nc
   hashes:
