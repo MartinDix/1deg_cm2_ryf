@@ -16,7 +16,9 @@ mem: 1000GB
 # Model configuration
 name: common
 model: access-om2
-input: /g/data/ik11/inputs/access-om2/input_20201102/common_1deg_jra55
+input: 
+      - /g/data/ik11/inputs/access-om2/input_20201102/common_1deg_jra55
+      - /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights
 submodels:
     - name: atmosphere
       model: yatm
@@ -24,6 +26,7 @@ submodels:
       input:
             - /g/data/ik11/inputs/access-om2/input_20201102/yatm_1deg
             - /g/data/ik11/inputs/JRA-55/RYF/v1-4
+            - /scratch/p66/mrd599/cj877_ryf
       ncpus: 1
 
     - name: ocean

@@ -11,6 +11,46 @@ work/INPUT/JRA55_MOM1_patch.nc:
   hashes:
     binhash: af316080d1711daa25abadbf0548718c
     md5: 6c345282e51521828f62b842e58dd734
+work/INPUT/remap_MOM1_n96e_t_conserve_dstarea_nomask.nc:
+  fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_MOM1_n96e_t_conserve_dstarea_nomask.nc
+  hashes:
+    binhash: 257794b5d4850d99d812992f42754a6f
+    md5: e7d29b0e811b8afd6d3ee44c60045503
+work/INPUT/remap_MOM1_n96e_t_conserve_fracarea.nc:
+  fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_MOM1_n96e_t_conserve_fracarea.nc
+  hashes:
+    binhash: f37ec950ca79e25fe3ea992443aab93c
+    md5: 011e646b160a3a32a4ff2482e1f9ac1e
+work/INPUT/remap_MOM1_n96e_u_conserve_fracarea.nc:
+  fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_MOM1_n96e_u_conserve_fracarea.nc
+  hashes:
+    binhash: 3de671fcbad4b542772eeede728d5502
+    md5: cefba4064bc40874800a72dcbbec1c0e
+work/INPUT/remap_MOM1_n96e_v_conserve_fracarea.nc:
+  fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_MOM1_n96e_v_conserve_fracarea.nc
+  hashes:
+    binhash: ea072b220b5789d9499c4b5a9491f9dc
+    md5: c1f477fe35dc915aff6332615b22129a
+work/INPUT/remap_n96e_t_MOM1_bilinear_dstarea.nc:
+  fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_t_MOM1_bilinear_dstarea.nc
+  hashes:
+    binhash: a7b93c61b24006159424a95234f5e03d
+    md5: 695509e706ed127271d1938d9d59d26b
+work/INPUT/remap_n96e_t_MOM1_conserve_dstarea.nc:
+  fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_t_MOM1_conserve_dstarea.nc
+  hashes:
+    binhash: c5069b21d57525bad035afa75b31dff1
+    md5: 0ea67f296421583864e1d5e879363744
+work/INPUT/remap_n96e_u_MOM1_patch_dstarea.nc:
+  fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_u_MOM1_patch_dstarea.nc
+  hashes:
+    binhash: 7f2f6968f2aebf70df1d49ef0b00d018
+    md5: 18ba95b096431740d56fe24fd158f11f
+work/INPUT/remap_n96e_v_MOM1_patch_dstarea.nc:
+  fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_v_MOM1_patch_dstarea.nc
+  hashes:
+    binhash: 68d87a2e475cbb47015231307c4eea5c
+    md5: 96ca4f99b9bb3e12c70e38e20d734108
 work/INPUT/rmp_jra55_cice_1st_conserve.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/common_1deg_jra55/rmp_jra55_cice_1st_conserve.nc
   hashes:
@@ -86,6 +126,16 @@ work/atmosphere/INPUT/RYF.vas.1990_1991.nc:
   hashes:
     binhash: 17224eecb745b6ce72604b41201c1fe7
     md5: 88dc8c70338bbc8f5efc48ed0009a99f
+work/atmosphere/INPUT/cj877_rlds.nc:
+  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_rlds.nc
+  hashes:
+    binhash: 05bc9d2c39c6a26a2f210332c261fdc6
+    md5: fcb25dec6f4cf974d55614fd8a7f96aa
+work/atmosphere/INPUT/cj877_rsds.nc:
+  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_rsds.nc
+  hashes:
+    binhash: 7c8ad9320d9943ac20f6059b75259ed9
+    md5: 614533d70d18921990cd3cea1f1940f7
 work/atmosphere/INPUT/make_rhuss/.git/FETCH_HEAD:
   fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/FETCH_HEAD
   hashes:
