@@ -14,48 +14,48 @@ work/INPUT/JRA55_MOM1_patch.nc:
 work/INPUT/remap_MOM1_n96e_t_conserve_dstarea_nomask.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_MOM1_n96e_t_conserve_dstarea_nomask.nc
   hashes:
-    binhash: 257794b5d4850d99d812992f42754a6f
-    md5: e7d29b0e811b8afd6d3ee44c60045503
+    binhash: 82de2e18c6f6ea40e2900a8c8664cbe6
+    md5: a059e4dd365c2269ad3a2631467232d8
 work/INPUT/remap_MOM1_n96e_t_conserve_fracarea.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_MOM1_n96e_t_conserve_fracarea.nc
   hashes:
-    binhash: f37ec950ca79e25fe3ea992443aab93c
-    md5: 011e646b160a3a32a4ff2482e1f9ac1e
+    binhash: 72d50ebdabbe43c82460c860c9ebbc0f
+    md5: 60da1a96e99e6b494826ed3913061135
 work/INPUT/remap_MOM1_n96e_u_conserve_fracarea.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_MOM1_n96e_u_conserve_fracarea.nc
   hashes:
-    binhash: 3de671fcbad4b542772eeede728d5502
-    md5: cefba4064bc40874800a72dcbbec1c0e
+    binhash: 612e1b4199810f237ebbd9090211c797
+    md5: cb8b9de1c041077205aa56fa65f7d320
 work/INPUT/remap_MOM1_n96e_v_conserve_fracarea.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_MOM1_n96e_v_conserve_fracarea.nc
   hashes:
-    binhash: ea072b220b5789d9499c4b5a9491f9dc
-    md5: c1f477fe35dc915aff6332615b22129a
+    binhash: 592ae5dff9ee39ddfe3f41a84866741a
+    md5: 0526407282f31f9c2848ce50d1108883
 work/INPUT/remap_n96e_t_MOM1_bilinear_dstarea.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_t_MOM1_bilinear_dstarea.nc
   hashes:
-    binhash: a7b93c61b24006159424a95234f5e03d
-    md5: 695509e706ed127271d1938d9d59d26b
+    binhash: 86aaf962688c6e296d5d37659f7162e8
+    md5: 8915e7cf316a02b19cc04cd2da4e7f84
 work/INPUT/remap_n96e_t_MOM1_conserve_dstarea.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_t_MOM1_conserve_dstarea.nc
   hashes:
-    binhash: c5069b21d57525bad035afa75b31dff1
-    md5: 0ea67f296421583864e1d5e879363744
+    binhash: 281ee48524bef620619287fa5fd76bdb
+    md5: 6ba23fad9b2ed503c141ada326e3e071
 work/INPUT/remap_n96e_t_MOM1_patch_dstarea.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_t_MOM1_patch_dstarea.nc
   hashes:
-    binhash: c2db64523b88a0017fda3a394ca4304f
-    md5: facf1e44c75edbca301a58baf04f2583
+    binhash: 4d6aff5f5ea9a208011ea610f834b2b7
+    md5: 8b86f4c7445a184a8c13df24677e641a
 work/INPUT/remap_n96e_u_MOM1_patch_dstarea.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_u_MOM1_patch_dstarea.nc
   hashes:
-    binhash: 7f2f6968f2aebf70df1d49ef0b00d018
-    md5: 18ba95b096431740d56fe24fd158f11f
+    binhash: fb18d043a6bc93b3b0aac73f7cf8729a
+    md5: 52a80bb700f09ac281aac5fdf8beabec
 work/INPUT/remap_n96e_v_MOM1_patch_dstarea.nc:
   fullpath: /scratch/p66/mrd599/cylc-run/u-cx958/share/data/n96e_mom1_20201102/esmf_weights/remap_n96e_v_MOM1_patch_dstarea.nc
   hashes:
-    binhash: 68d87a2e475cbb47015231307c4eea5c
-    md5: 96ca4f99b9bb3e12c70e38e20d734108
+    binhash: 4eb6cf5e8f11a0156f8d935284eab1e8
+    md5: 8e61cb9435b5660827a781d353aa11d4
 work/INPUT/rmp_jra55_cice_1st_conserve.nc:
   fullpath: /g/data/ik11/inputs/access-om2/input_20201102/common_1deg_jra55/rmp_jra55_cice_1st_conserve.nc
   hashes:
@@ -131,31 +131,51 @@ work/atmosphere/INPUT/RYF.vas.1990_1991.nc:
   hashes:
     binhash: 17224eecb745b6ce72604b41201c1fe7
     md5: 88dc8c70338bbc8f5efc48ed0009a99f
+work/atmosphere/INPUT/cj877_huss.nc:
+  fullpath: /g/data/p66/mrd599/cj877_ryf/cj877_huss.nc
+  hashes:
+    binhash: 5224eeeab1ecefa2fbd0b5346439bff9
+    md5: eb2d5046b114113834cda027329abcda
 work/atmosphere/INPUT/cj877_prra.nc:
-  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_prra.nc
+  fullpath: /g/data/p66/mrd599/cj877_ryf/cj877_prra.nc
   hashes:
-    binhash: cb0293791b757dbc9d274e5eb9b5f86c
-    md5: 61251c29bf70a5a7641451c934eecc19
+    binhash: 364daeda3f981fc7e890c89c0629136f
+    md5: 44e31771dc6ce72267023fcce7f343c4
 work/atmosphere/INPUT/cj877_prsn.nc:
-  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_prsn.nc
+  fullpath: /g/data/p66/mrd599/cj877_ryf/cj877_prsn.nc
   hashes:
-    binhash: 806cf3be327e811419192d24a2e87e2d
-    md5: 433c62098098c9c6b6439fd1fd9ec66b
+    binhash: 76e1adddae010702619fbfb42611b6c1
+    md5: 4a2ee31639475bd1c22e486379284645
 work/atmosphere/INPUT/cj877_psl.nc:
-  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_psl.nc
+  fullpath: /g/data/p66/mrd599/cj877_ryf/cj877_psl.nc
   hashes:
-    binhash: fca4974632cbeb7b77a2573422d30884
-    md5: abf1a721fcdcb2781d7f4e84c86c8062
+    binhash: ad880699c0662ebeb10a94c5084a8390
+    md5: 021f414e1782c6987f1716cf90d2ee26
 work/atmosphere/INPUT/cj877_rlds.nc:
-  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_rlds.nc
+  fullpath: /g/data/p66/mrd599/cj877_ryf/cj877_rlds.nc
   hashes:
-    binhash: 05bc9d2c39c6a26a2f210332c261fdc6
-    md5: fcb25dec6f4cf974d55614fd8a7f96aa
+    binhash: 5abc957f07cb0e65ce103b0aa1a95e4e
+    md5: efba0440c4cf9833afca29da4de06986
 work/atmosphere/INPUT/cj877_rsds.nc:
-  fullpath: /scratch/p66/mrd599/cj877_ryf/cj877_rsds.nc
+  fullpath: /g/data/p66/mrd599/cj877_ryf/cj877_rsds.nc
   hashes:
-    binhash: 7c8ad9320d9943ac20f6059b75259ed9
-    md5: 614533d70d18921990cd3cea1f1940f7
+    binhash: 9c2d8f98f18942c43e60ccb4b650dc2c
+    md5: b6baa6b98e65ba8ab052c0a2f5f958c2
+work/atmosphere/INPUT/cj877_tas.nc:
+  fullpath: /g/data/p66/mrd599/cj877_ryf/cj877_tas.nc
+  hashes:
+    binhash: e0df4591ea198b0f86d26cb86cca0550
+    md5: dccdc495056dd7a374cb1673baa61bdb
+work/atmosphere/INPUT/cj877_uas.nc:
+  fullpath: /g/data/p66/mrd599/cj877_ryf/cj877_uas.nc
+  hashes:
+    binhash: 2f0bcc8d2ed51ec27391e80289d079fb
+    md5: 613b7e2df2d6494da3a232f1339ad940
+work/atmosphere/INPUT/cj877_vas.nc:
+  fullpath: /g/data/p66/mrd599/cj877_ryf/cj877_vas.nc
+  hashes:
+    binhash: 91d2ca94b430e314dc6bf9afdd1ddab1
+    md5: 225c7c5b414fbcf9f2f8761673230b77
 work/atmosphere/INPUT/make_rhuss/.git/FETCH_HEAD:
   fullpath: /g/data/ik11/inputs/JRA-55/RYF/v1-4/make_rhuss/.git/FETCH_HEAD
   hashes:

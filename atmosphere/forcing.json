@@ -33,22 +33,22 @@
       "domain": "land"
     },
     {
-      "filename": "INPUT/RYF.tas.1990_1991.nc",
+      "filename": "INPUT/cj877_tas.nc",
       "fieldname": "tas",
       "cname": "tair_ai"
     },
     {
-      "filename": "INPUT/RYF.huss.1990_1991.nc",
+      "filename": "INPUT/cj877_huss.nc",
       "fieldname": "huss",
       "cname": "qair_ai"
     },
     {
-      "filename": "INPUT/RYF.uas.1990_1991.nc",
+      "filename": "INPUT/cj877_uas.nc",
       "fieldname": "uas",
       "cname": "uwnd_ai"
     },
     {
-      "filename": "INPUT/RYF.vas.1990_1991.nc",
+      "filename": "INPUT/cj877_vas.nc",
       "fieldname": "vas",
       "cname": "vwnd_ai"
     },
